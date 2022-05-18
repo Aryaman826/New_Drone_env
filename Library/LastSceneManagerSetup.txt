@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/drone_controller_dev.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
